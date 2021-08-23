@@ -6,4 +6,4 @@
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2l-eh8nUwYbxEUh0RaLlag?label=YouTube%20Subscribers&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/bdanMusic?label=GitHub%20Followers&style=social)
 
-###### Thank you for stopping by! :D
+###### Thanks for stopping by! :D
