@@ -1,9 +1,6 @@
-# Hey! 👋
-## I'm Berdan! (or just bdan)
-#### I was born on the 3rd of December 2003, and I'm a musician from Cologne, Germany!
+<img src="https://imagecdn.bdan.io/00eb332b-e62f-42b2-a684-41169c6a5000/fit=crop,h=200,w=1000">
 
-![Twitter Followers](https://img.shields.io/twitter/follow/bdanMusic?label=Twitter%20Followers&style=social)
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2l-eh8nUwYbxEUh0RaLlag?label=YouTube%20Subscribers&style=social)
-![GitHub Followers](https://img.shields.io/github/followers/bdanMusic?label=GitHub%20Followers&style=social)
+# Hey! 👋 I'm bdan!
+I'm a Music artist, Photographer, Video editor and programmer living in Germany, Cologne.
 
 ###### Thanks for stopping by! :D
